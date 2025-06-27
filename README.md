@@ -1,2 +1,1 @@
-# Slider
-Image Carausel
+# Hotel Management System
